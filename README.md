@@ -2,5 +2,7 @@
 
 A start of items for review as I move in to the DFIR universe
 
-IR Job Requirements.xmind - Mind map of the common items I found while reviewing current job listings for requirments
-Ir Job Requirements.md - markdown format of the common items I found while reviewing current job listings for requirments
+
+Common items I found while reviewing current job listings for requirments.  Current state is gathered from IR job postsings.  Will add DF info over time.
+DFIR Job Requirements.xmind - Mind map
+DFIR Job Requirements.md - Markdown
